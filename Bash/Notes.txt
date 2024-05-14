@@ -5,4 +5,6 @@ Some Commands to take note of:
 4. echo
 5. 
 
+Using variables requires putting $ before the variable name like $the_path
+
 Using paths requires /mnt/c/Users/Francisco/Desktop/scripting/scripting/Bash
