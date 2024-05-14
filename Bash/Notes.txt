@@ -1,0 +1,8 @@
+Some Commands to take note of:
+1. date
+2. pwd
+3. ls
+4. echo
+5. 
+
+Using paths requires /mnt/c/Users/Francisco/Desktop/scripting/scripting/Bash
