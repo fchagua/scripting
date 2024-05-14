@@ -3,7 +3,7 @@ Some Commands to take note of:
 2. pwd
 3. ls
 4. echo
-5. 
+5. read
 
 Using variables requires putting $ before the variable name like $the_path
 
